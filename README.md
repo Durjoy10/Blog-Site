@@ -1,5 +1,5 @@
 
-#Blog-site
+## Blog-site
 
 Welcome to Blog-site, an experimental blog website for posting and sharing articles. This project is inspired by Angela Yu's blog post website and serves as a platform for exploring and experimenting with blog-related features.
 
